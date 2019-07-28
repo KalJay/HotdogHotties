@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 308d24eefc86d464e87bf933e092035b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shoot: {fileID: 8300000, guid: e7a544e661f67b54a84550c71fc3f537, type: 3}
+  - gotHit: {fileID: 8300000, guid: 111fd1e0d2105264fb56842dc677a9fe, type: 3}
+  - truckDrive: {fileID: 8300000, guid: 909ed604915e2c64f82b83b909336229, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

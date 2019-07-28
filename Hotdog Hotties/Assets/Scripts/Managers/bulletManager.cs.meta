@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d2b07617236ce9546b2a92190b909f78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basicHotdog: {fileID: 21300000, guid: 1f6dd4a4234fd7e4fa12e0c4c3529bed, type: 3}
+  - hamburger: {fileID: 21300000, guid: 0934128322561924ca8424d98c5b31d9, type: 3}
+  - hamburgerRadius: {fileID: 21300000, guid: 53204be52d76cd84090ee3a8d3186fa3, type: 3}
+  - frenchFry: {fileID: 21300000, guid: b036f8de2f126f54ca4ad3023b1dbe6b, type: 3}
+  - sauceShot: {fileID: 21300000, guid: f7fa582aac3c14545871fe40a4bb7f62, type: 3}
+  - chorizoShot: {fileID: 21300000, guid: 230f7a5c26eb79a4b9ffab2535691239, type: 3}
+  - baguette: {fileID: 21300000, guid: 08e0e8b28d703484a8f72e56eb9d7f01, type: 3}
+  - sausageSpear: {fileID: 21300000, guid: a01a21f8f9de9034a8dbd1652722497f, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
